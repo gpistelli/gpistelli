@@ -13,12 +13,30 @@
 
 ### Connect with me!
 
-[<img src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/academia.svg width="30">](https://ufpr.academia.edu/GabrielPistelliFerreira) &nbsp;&nbsp; [<img src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/kaggle.svg width="20" height = "30">](https://www.kaggle.com/gabrielpistelli)
-&nbsp;&nbsp; [<img src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/lattes.svg width="30">](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2138347Y9)
+[<img align="left" src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/academia.svg width="30">](https://ufpr.academia.edu/GabrielPistelliFerreira) 
+[<img align="left" src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/kaggle.svg width="20" height = "30">](https://www.kaggle.com/gabrielpistelli)
+[<img align="left" src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/lattes.svg width="30">](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2138347Y9)
+
+<br />
 
 ---
 
-### Index of projects
+### Languages and Tools
+
+<img align="left" src=https://raw.githubusercontent.com/gpistelli/gpistelli/c4b4ab8ee33f0ae633d53a6cba47961f90f3cf63/img/R-project.svg width="40">
+<img align="left" src=https://rvest.tidyverse.org/logo.png width="40">
+<img align="left" src=https://raw.githubusercontent.com/gpistelli/gpistelli/4466888bb99385a373a2f3ca823a91a4c4ff35aa/img/Selenium.svg width="40">
+<img align="left" src=https://raw.githubusercontent.com/gpistelli/gpistelli/main/img/tidytext.png width="40">
+<img align="left" src=https://stringr.tidyverse.org/logo.png width="40">
+<img align="left" src=https://ggplot2.tidyverse.org/logo.png width="40">
+<img align="left" src=https://dplyr.tidyverse.org/logo.png width="40">
+<img align="left" src=https://igraph.org/img/igraph_logo_black.svg width="40">
+
+<br />
+
+---
+
+### Projects' index
 
 - [:octocat: Brazilian Deputy Chambers Votes](https://github.com/gpistelli/BR-congress-votes) - 🇵🇹
 - [:octocat: Master Thesis: Industry Associative Complex and 2017 Labor Reform](https://github.com/gpistelli/comp-assoc-ind-ref-trab) - 🇵🇹
