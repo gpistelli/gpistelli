@@ -19,3 +19,7 @@
 ---
 
 ### Index of projects
+
+- [:octocat: Brazilian Deputy Chambers Votes](https://github.com/gpistelli/BR-congress-votes) - 🇵🇹
+- [:octocat: Master Thesis: Industry Associative Complex and 2017 Labor Reform](https://github.com/gpistelli/comp-assoc-ind-ref-trab) - 🇵🇹
+- [<img src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/kaggle.svg width="12" height = "20"> Coronavirus Senate' Parliamentary Investigation Committee](https://www.kaggle.com/datasets/gabrielpistelli/notas-taquigrficas-da-cpi-da-covid) - 🇵🇹
