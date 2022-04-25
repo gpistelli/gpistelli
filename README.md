@@ -30,6 +30,7 @@
 <img align="left" src=https://stringr.tidyverse.org/logo.png width="40">
 <img align="left" src=https://ggplot2.tidyverse.org/logo.png width="40">
 <img align="left" src=https://dplyr.tidyverse.org/logo.png width="40">
+<img align="left" src=https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png width="40">
 <img align="left" src=https://igraph.org/img/igraph_logo_black.svg width="40">
 
 <br />
