@@ -31,6 +31,7 @@
 <img align="left" src=https://ggplot2.tidyverse.org/logo.png width="40">
 <img align="left" src=https://dplyr.tidyverse.org/logo.png width="40">
 <img align="left" src=https://raw.githubusercontent.com/rstudio/rmarkdown/main/man/figures/logo.png width="40">
+<img align="left" src=https://raw.githubusercontent.com/rstudio/hex-stickers/9f15fdc46b6e569ac61af9919cb322290c9c5496/SVG/shiny.svg width="40">
 <img align="left" src=https://igraph.org/img/igraph_logo_black.svg width="40">
 
 <br />
