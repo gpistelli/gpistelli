@@ -33,6 +33,7 @@
 <img align="left" src=https://igraph.org/img/igraph_logo_black.svg width="40">
 
 <br />
+<br />
 
 ---
 
