@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @gpistelli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gpistelli/gpistelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Gabriel, a 🇧🇷 sociologist
+- 👀 I’m interested in developing new researches in Sociology and creating new tools to help us
+- 🌱 I’m currently researching Brazilian industrialists through new methods
+- I'm also quite interested in science divulgation! Check my social medias below.
+- 💞️ I’m looking to collaborate on new methods and researches for the social sciences
+- 📫 You can reach me through gabriel.pistelli.ferreira@gmail.com
+- You can talk to me in 🇵🇹, 🇬🇧, 🇪🇸 and 🇫🇷
+- For a more academic presentation, see my [portfolio page](https://gpistelli.github.io)
