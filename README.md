@@ -2,9 +2,9 @@
 - 👋 Hi, I’m Gabriel, a 🇧🇷 sociologist that knows some <img src="https://raw.githubusercontent.com/gpistelli/gpistelli/c4b4ab8ee33f0ae633d53a6cba47961f90f3cf63/img/R-project.svg" width="20">
 - <img src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/graduation-cap.svg width="20"> My alma mater is <img src=https://raw.githubusercontent.com/gpistelli/gpistelli/main/img/Ufpr_logo.jpg width="30">. I have a Bachelors and Masters in Sociology.
 - 👀 I’m interested in developing new researches in Sociology and creating new tools to help us in our work.
-- 🧪 I’m currently researching Brazilian industrialists with relational methods like GDA, SNA and others.
+- 🧪 I’m currently researching Brazilian industrialists through relational methods like GDA, SNA and others.
 - 💬 I'm also quite interested in science divulgation! Check my social medias below.
-- 🤝 I’m looking to collaborate on new methods and researches for the social sciences.
+- 🤝 I’m looking to collaborate on new methods and researches for the Social Sciences.
 - 📫 You can reach me through gabriel.pistelli.ferreira@gmail.com.
 - 🌎 You can talk to me in 🇵🇹, 🇺🇸󠁧, 🇪🇸 and 🇫🇷
 - 👔 For a more academic presentation, see my [portfolio page](https://gpistelli.github.io)
