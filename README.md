@@ -10,8 +10,6 @@
 
 ### Connect with me!
 
-[<img align="left" src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/academia.svg width="30">](https://ufpr.academia.edu/GabrielPistelliFerreira) 
-[<img align="left" src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/kaggle.svg width="20" height = "30">](https://www.kaggle.com/gabrielpistelli)
 [<img align="left" src=https://raw.githubusercontent.com/gpistelli/gpistelli/5d5088841c462575765281abe9dd861d97e0d3a0/img/lattes.svg width="30">](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2138347Y9)
 
 <br />
